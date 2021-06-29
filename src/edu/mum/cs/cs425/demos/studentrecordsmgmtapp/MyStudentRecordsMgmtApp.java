@@ -28,8 +28,8 @@ public class MyStudentRecordsMgmtApp {
         integerList.add(5);
         integerList.add(7);
         integerList.add(35);
-        integerList.add(1);
-        integerList.add(3);
+        integerList.add(2);
+        integerList.add(4);
         System.out.println("--3--");
         printHelloWorld(integerList);
 
